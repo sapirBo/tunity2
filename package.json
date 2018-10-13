@@ -1,0 +1,27 @@
+{
+  "name": "tunity2",
+  "version": "1.0.0",
+  "description": "RESTful Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test apecified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapirBo/tunity2.git"
+  },
+  "author": "Sapir Boani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapirBo/tunity2/issues"
+  },
+  "homepage": "https://github.com/sapirBo/tunity2#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "date-time": "^2.1.0",
+    "express": "^4.16.3"
+  }
+}
